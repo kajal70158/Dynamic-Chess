@@ -1,0 +1,23 @@
+#displayBoard{
+                    height: 800px;
+                    width: 800px;
+                    margin: 0 auto;
+                    border: 5px solid green;
+                    padding: 20px;
+                    background-color: yellow;
+}
+.box{
+                    height: 100px;
+                    width: 100px;
+                    float: left;
+                    line-height: 100px;
+                    font-size: 40px;
+}
+.white{
+                    background-color: white;
+                    color: black;
+}
+.black{
+                    background-color: black;
+                    color: white;
+}
